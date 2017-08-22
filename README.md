@@ -1,4 +1,4 @@
-# Uniplaces Mobile Challenge
+# Mobile Challenge
 
 ## About
 An app built with React Native for an iOS React Native mobile challenge. The app runs on iOS devices (and theoretically on Android devices, however not tested as it was not a part of the test, but built with components that are cross-platform). 
