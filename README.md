@@ -1,7 +1,11 @@
 # Uniplaces Mobile Challenge
 
 ## About
-An app built with React Native for a mobile challenge from Uniplaces. The app runs on iOS devices (and theoretically on Android devices, however not tested, but built with components that are cross-platform). 
+An app built with React Native for an iOS React Native mobile challenge. The app runs on iOS devices (and theoretically on Android devices, however not tested as it was not a part of the test, but built with components that are cross-platform). 
+
+## Screens (what to build)
+I was provided with these 5 screens in png form. No assets were provided, dimensions, colour values, etc.
+![artboard](https://user-images.githubusercontent.com/6841437/29561304-4a5701da-8735-11e7-8886-2700fb571f14.png)
   
 ## Requirements (and my assumptions about them)
 - By default move in should always be greater than today
