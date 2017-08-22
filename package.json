@@ -1,0 +1,31 @@
+{
+  "name": "calendar-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jest-expo": "~18.0.0",
+    "prettier": "^1.5.3",
+    "react-native-scripts": "0.0.50",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^18.0.9",
+    "moment": "^2.18.1",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.45.1",
+    "react-native-calendars": "https://github.com/svanlaug/react-native-calendars/tarball/master",
+    "react-native-datepicker": "https://github.com/svanlaug/react-native-datepicker/tarball/master",
+    "react-native-modalbox": "^1.4.1"
+  }
+}
