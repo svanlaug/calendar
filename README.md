@@ -31,7 +31,7 @@ I was provided with these 5 screens in png form. No assets were provided, dimens
 
 ## Running the app 
 1. Open Terminal/Command prompt
-2. Navigate to the uniplaces-challenge project directory
+2. Navigate to the calendar project directory
 3. Run `$ npm install`
 4. You now have two options of viewing/running the app:
    1. **Expo**: Run `$ npm start` and follow the instructions that appear in the Terminal/Command prompt
